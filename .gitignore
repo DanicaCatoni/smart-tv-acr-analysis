@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.env
+# Never commit captures or scan results with real IPs or data
+*.pcap
+*.pcapng
+results/
+scans/
